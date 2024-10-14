@@ -12,3 +12,12 @@
 * Just purchased a Mac about a month ago. Windowss user for over a decade, and am still learning to walk on the Mac. Love it so far though.
 
 ![Favorite Meme](https://i.redd.it/em0ed1aqccgd1.gif)
+
+## CIS 671 - Term Project
+[Link to Project Webpage](https://i-need-this-to-fork-the-repo-again.github.io/GVSU-CIS641-ElectricSpaghetti/)
+
+Around the Horn is a rogue-like baseball themed management game. Take a team of 9 players from the beginning of their career, and create the perfect World Series winning team!
+
+Players will have stats that can be modified by random items and trinkets, and teams can be defined with whole-team items called "mementos". These stats, items, and mementos determine the type of hitter a player is, increasing your chances to score some runs. Adjusting your team's stats and equipping the correct items is the key to success.
+
+The game is web-based and a demo for now, but there are plans to bring the game to a proper game engine (post-class).
